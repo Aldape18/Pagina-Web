@@ -501,8 +501,8 @@ nav.main-menu {
 .lorem_text {
     width: 82%;
     float: left;
-    color: #0b0a0b;
-    font-size: 16px;
+    color: #fafafa;
+    font-size: 20px;
     padding-top: 46%;
     margin-left: 0px;
 }
@@ -552,14 +552,14 @@ nav.main-menu {
     width: 100%;
     float: left;
     position: relative;
-    top: -150px;
+    
 }
 
 .best_text{
     width: 100%;
     float: left;
-    font-size: 30px;
-    color: #0f0f0f;
+    font-size: 35px;
+    color: #000000;
     text-align: center;
     font-weight: 400;
 }
@@ -576,7 +576,7 @@ nav.main-menu {
 .lorem_ipsum_text{
     width: 100%;
     float: left;
-    font-size: 16px;
+    font-size: 20px;
     color: #0b0a0b;
     margin-left: 0px;
 }
@@ -615,7 +615,7 @@ nav.main-menu {
 .ipsum_text {
     width: 100%;
     float: left;
-    font-size: 16px;
+    font-size: 20px;
     color: #0b0a0b;
     margin-left: 0px;
     padding-top: 90px;
@@ -624,8 +624,8 @@ nav.main-menu {
 .camera_text{
     width: 100%;
     float: left;
-    font-size: 30px;
-    color: #ffffff;
+    font-size: 35px;
+    color: #000000;
     text-align: center;
     font-weight: 400;
 }
