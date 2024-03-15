@@ -470,12 +470,12 @@ nav.main-menu {
 .about_section {
     width: 100%;
     float: left;
-    background-image: url(../images/about-bg.png);
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
     padding-bottom: 27px;
 }
+
 
 .about_text {
     width: 17%;
@@ -501,7 +501,8 @@ nav.main-menu {
 .lorem_text {
     width: 82%;
     float: left;
-    color: #fafafa;
+    color: #ffffff;
+    background-image: url(../images/about-bg.png);
     font-size: 20px;
     padding-top: 46%;
     margin-left: 0px;
@@ -510,7 +511,6 @@ nav.main-menu {
 .about_bt {
     width: 100%;
     float: left;
-    
 }
 
 .about_bt a {
